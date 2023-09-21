@@ -21,5 +21,9 @@ Additional Requirements:
 ![SS1](https://github.com/Mirza-Hassan/Angular_Project_List_Task/assets/17096257/5785ecbc-56c2-4437-a6e5-5cd4247d545d)
 ![ss2](https://github.com/Mirza-Hassan/Angular_Project_List_Task/assets/17096257/85a26cd1-0a64-4407-b208-2a432b442d56)
 
+# Application Flow
+[screencast-bpconcjcammlapcogcnnelfmaeghhagj-2023.09.21-23_18_53.webm](https://github.com/Mirza-Hassan/Angular_Project_List_Task/assets/17096257/56be3228-5508-44d0-b0ec-b6866b275587)
+
+
 ### Live URL 
 https://multi-form-app.netlify.app/
