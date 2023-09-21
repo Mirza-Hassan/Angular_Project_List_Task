@@ -30,4 +30,4 @@ Additional Requirements:
 
 
 ### Live URL 
-https://projectlistings.surge.sh/dashboard
+https://projectlistings.surge.sh
