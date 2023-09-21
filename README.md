@@ -18,8 +18,8 @@ Additional Requirements:
 - Frontend: Angular
 
 # Screenshot
-![SS1](https://github.com/Mirza-Hassan/Angular_Project_List_Task/assets/17096257/60e00b27-5e2f-4d02-a839-2b65ae564887)
-![ss2](https://github.com/Mirza-Hassan/Angular_Project_List_Task/assets/17096257/7ce1a20e-ad78-401f-a024-ca3a5e3017b6)
+![SS1](https://github.com/Mirza-Hassan/Angular_Project_List_Task/assets/17096257/5785ecbc-56c2-4437-a6e5-5cd4247d545d)
+![ss2](https://github.com/Mirza-Hassan/Angular_Project_List_Task/assets/17096257/85a26cd1-0a64-4407-b208-2a432b442d56)
 
 ### Live URL 
 https://multi-form-app.netlify.app/
