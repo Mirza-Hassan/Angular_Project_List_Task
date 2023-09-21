@@ -18,7 +18,8 @@ Additional Requirements:
 - Frontend: Angular
 
 # Screenshot
-![Demo](https://github.com/Mirza-Hassan/React_Multi-Step_Form/assets/17096257/2e996b0c-2294-4494-905d-eabcc6d4796c)
+![SS1](https://github.com/Mirza-Hassan/Angular_Project_List_Task/assets/17096257/60e00b27-5e2f-4d02-a839-2b65ae564887)
+![ss2](https://github.com/Mirza-Hassan/Angular_Project_List_Task/assets/17096257/7ce1a20e-ad78-401f-a024-ca3a5e3017b6)
 
 ### Live URL 
 https://multi-form-app.netlify.app/
